@@ -30,6 +30,6 @@ Working on my **AI & Big Data Specialization** and integrating ML models into re
 
 ## Let's Connect
 
-📧 [Email](mailto:alejandroramirezsalado@protonmail.com) • 💼 [LinkedIn](https://linkedin.com/in/username) • 💻 [GitHub](https://github.com/username)
+📧 [Email](mailto:alejandroramirezsalado@protonmail.com) • 💼 [LinkedIn](https://linkedin.com/in/username) 
 
 **Open to exciting ML and data-driven projects! 🚀**
