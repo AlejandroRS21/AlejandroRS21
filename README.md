@@ -1,4 +1,4 @@
-# Hi! I'm Alejandro 👋
+# Alejandro Ramirez Salado
 
 **AI & Machine Learning Developer | Full-Stack Developer**
 
@@ -8,11 +8,11 @@ I build intelligent applications combining machine learning with cross-platform 
 
 ## What I Do
 
-🤖 **Machine Learning & AI** - Python, TensorFlow, PyTorch, Scikit-learn  
-📊 **Big Data** - Apache Spark, ETL, Data visualization, Cloud platforms  
-📱 **Mobile Apps** - Android (Kotlin, Jetpack Compose), Flutter  
-🌐 **Web** - React, Angular, JavaScript  
-🏢 **Enterprise** - Odoo ERP, Business automation
+**Machine Learning & AI** - Python, TensorFlow, PyTorch, Scikit-learn  
+**Big Data** - Apache Spark, ETL, Data visualization, Cloud platforms  
+**Mobile Apps** - Android (Kotlin, Jetpack Compose), Flutter  
+**Web Development** - React, Angular, JavaScript  
+**Enterprise Solutions** - Odoo ERP, Business automation
 
 ---
 
@@ -24,12 +24,12 @@ Python • R • SQL • TensorFlow • PyTorch • Spark • Hadoop • React �
 
 ## Currently
 
-Working on my **AI & Big Data Specialization** and integrating ML models into real-world applications.
+Pursuing **AI & Big Data Specialization** and integrating machine learning models into production applications.
 
 ---
 
 ## Let's Connect
 
-📧 [Email](mailto:alejandroramirezsalado@protonmail.com) • 💼 [LinkedIn](https://linkedin.com/in/username) 
+[Email](mailto:alejandroramirezsalado@protonmail.com) • [LinkedIn](https://linkedin.com/in/username) 
 
 
