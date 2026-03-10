@@ -30,6 +30,6 @@ Pursuing **AI & Big Data Specialization** and integrating machine learning model
 
 ## Let's Connect
 
-[Portfolio](https://alejandrors21.github.io/DevPortfolio/) • [Email](mailto:alejandroramirezsalado@protonmail.com) • [LinkedIn](https://linkedin.com/in/username) 
+[Email](mailto:alejandroramirezsalado@protonmail.com) • [LinkedIn](https://linkedin.com/in/username) 
 
 
