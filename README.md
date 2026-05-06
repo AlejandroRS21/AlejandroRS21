@@ -8,6 +8,6 @@ I build intelligent applications combining machine learning with cross-platform 
 
 ## Let's Connect
 
-[Email](mailto:alejandroramirezsalado@protonmail.com) • [LinkedIn](https://linkedin.com/in/username) [Portfolio](https://alejandrors21.github.io/DevPortfolio)
+[Email](mailto:alejandroramirezsalado@protonmail.com) • [LinkedIn](https://linkedin.com/in/username) • [Portfolio](https://alejandrors21.github.io/DevPortfolio)
 
 
